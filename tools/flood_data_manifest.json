@@ -1,0 +1,834 @@
+{
+  "description": "Expected files reconstructed from Flood SPS release 504 revision 1",
+  "files": {
+    "audio/FLDFX_DU.bin": {
+      "sha256": "5ef5e90ff1b769b0280db77b19586a20c88b81eaeadea260568ac25e28d8ac45",
+      "size": 2111
+    },
+    "audio/FLDFX_IN.bin": {
+      "sha256": "a22d1db03ea27e3c1d650e671210b8ef58e45a12b6bc1a0f8ea9c9979986c1e0",
+      "size": 97348
+    },
+    "audio/INSTR_DA.bin": {
+      "sha256": "64242ab19521c0247eae8cfff2ef623099827e7573a9e6d280e856aeb140a5f7",
+      "size": 120548
+    },
+    "audio/TRACK_DA.bin": {
+      "sha256": "485a6dd89a869258e296fbacab57ab50c2211c718f494c70c758987aff6b2c41",
+      "size": 9344
+    },
+    "blocks/BLOCKA_attrs.bin": {
+      "sha256": "46ea84064c2c7b7d196fc1bf1cafd55e49abfcda7f3e3412cd291daab36c5273",
+      "size": 256
+    },
+    "blocks/BLOCKA_tiles.bin": {
+      "sha256": "0e9f64cd644cec5f0d8dcc31d4236c467273a1767779f62f2b56e2cf3ab78c94",
+      "size": 32768
+    },
+    "blocks/BLOCKB_attrs.bin": {
+      "sha256": "a47b8aef1ef06b38cc6e6672aa303ceb76d74187023569e6583ec7179ac720dd",
+      "size": 256
+    },
+    "blocks/BLOCKB_tiles.bin": {
+      "sha256": "ef2b1e75617c9c0c71b14e68098e90340b8216119638af417dc2c4278075f905",
+      "size": 32768
+    },
+    "blocks/BLOCKC_attrs.bin": {
+      "sha256": "55e29c9d7a4171f15b4d04929ff121cd6056080c5339031b4071a42af39f5a00",
+      "size": 256
+    },
+    "blocks/BLOCKC_tiles.bin": {
+      "sha256": "02c2a982af0cca61de390f456d32be9b5dcc5235f1482711d072504ec6122b34",
+      "size": 32768
+    },
+    "ending/ENDING_palette.bin": {
+      "sha256": "ec6ca2b5951c3ffba1e84bc58d0c9be9c71f17bfffe50fa7b3027b957357fbf1",
+      "size": 32
+    },
+    "ending/END_SCRE.bin": {
+      "sha256": "31630701739c6403f952cde6f1d8add9c75867870f15f076ee0295b584471c07",
+      "size": 124160
+    },
+    "hud/HUD_glyphs.bin": {
+      "sha256": "151749d8ba1102e31de6ac7d8ebf12b4d62ba74fa4a5046b83c7f90d40a5e691",
+      "size": 896
+    },
+    "hud/HUD_template.bin": {
+      "sha256": "2afbb6fc0891911c0d4d8adc4015493b46caa1d6d24d149dd63b5a2112f619ff",
+      "size": 320
+    },
+    "levels/level_01_header.bin": {
+      "sha256": "1602cf2b7df4158abe715499e717b58bfd35cd95635085f0853b1b0140577236",
+      "size": 16
+    },
+    "levels/level_01_tilemap.bin": {
+      "sha256": "84c60af8fa63becb2bd3d5f20f6ef2324dad5d1c2e0f5497267e44d9e7cd07ef",
+      "size": 12800
+    },
+    "levels/level_01_trigger_payload.bin": {
+      "sha256": "a0ae0eb53486b5dee3623dc6ce5213c4df85c485d98c5602c34362692b71e189",
+      "size": 640
+    },
+    "levels/level_01_triggers.bin": {
+      "sha256": "8b93db8e82716dc91799820cfb9e612af5b62335fa29e73f7dc90587e81a85bf",
+      "size": 20
+    },
+    "levels/level_02_header.bin": {
+      "sha256": "1602cf2b7df4158abe715499e717b58bfd35cd95635085f0853b1b0140577236",
+      "size": 16
+    },
+    "levels/level_02_tilemap.bin": {
+      "sha256": "dbc07e6bcbf53669c4883baa9bca6651c57ba41723f0c3de82db8957ea6a1b32",
+      "size": 12800
+    },
+    "levels/level_02_trigger_payload.bin": {
+      "sha256": "50ef08bf7f722977ebd5fdb65772002dfab0f0e0b9f7579ea06c09f1ee00103b",
+      "size": 640
+    },
+    "levels/level_02_triggers.bin": {
+      "sha256": "a68e069d6edd9cc713c6eb581893e8717af89f08942f0e0f8126aa9692c3c6cb",
+      "size": 20
+    },
+    "levels/level_03_header.bin": {
+      "sha256": "24caa1ba4d080ee197001869f187d510894fa2dc71f44aa1989fa6a97477570b",
+      "size": 16
+    },
+    "levels/level_03_tilemap.bin": {
+      "sha256": "ec6c29839026960bcdaca9057545351a69319ac9257491b8a03e979c1c84d7af",
+      "size": 12800
+    },
+    "levels/level_03_trigger_payload.bin": {
+      "sha256": "8cf7bcaacfadb60316551346303998c6b73886c90e47a438162b2fb01bfa6d56",
+      "size": 640
+    },
+    "levels/level_03_triggers.bin": {
+      "sha256": "926aac305818e5a127ae6a21edfd028d2be1c83b8d55ecd0dccf983919e7fffb",
+      "size": 30
+    },
+    "levels/level_04_header.bin": {
+      "sha256": "7d3ea8b511a577add8ba1f0926d657e80eec108bc6fa6eedfee290fddf4102e6",
+      "size": 16
+    },
+    "levels/level_04_tilemap.bin": {
+      "sha256": "4e5b9f9a2f7e0a621a055fc7f15128df7ab130602ea4e505460061da2c660e32",
+      "size": 12800
+    },
+    "levels/level_04_trigger_payload.bin": {
+      "sha256": "72501a24173440f14819804123f704d4f87fce44a4cbea05348d071d86599e5c",
+      "size": 640
+    },
+    "levels/level_04_triggers.bin": {
+      "sha256": "5913d2f232336dbf1266aeb33f0f601dabf40d8af4e3a8a1fb2c79fcade30150",
+      "size": 20
+    },
+    "levels/level_05_header.bin": {
+      "sha256": "5cf849cfff507be7707ab2d9a69c6061a15758172a8181c6d4884910a2943a27",
+      "size": 16
+    },
+    "levels/level_05_tilemap.bin": {
+      "sha256": "5be419c35fc8e3833c5f190f5ddfe512960360ce9c29001bd53769ad3bbd4b32",
+      "size": 12800
+    },
+    "levels/level_05_trigger_payload.bin": {
+      "sha256": "e847167f15951c19a081763b1fcc42ad6df2f7948169f2c40f9598414b2dd9b3",
+      "size": 640
+    },
+    "levels/level_05_triggers.bin": {
+      "sha256": "7fe92038672466ec3fc80a5702f62f6db646b7009f22060777d9a867f17c1c85",
+      "size": 30
+    },
+    "levels/level_06_header.bin": {
+      "sha256": "1602cf2b7df4158abe715499e717b58bfd35cd95635085f0853b1b0140577236",
+      "size": 16
+    },
+    "levels/level_06_tilemap.bin": {
+      "sha256": "0470805294fc2ee9e2a40113d8a858239d06a1fbf7cd21ecfc03cdd91556e5b3",
+      "size": 12800
+    },
+    "levels/level_06_trigger_payload.bin": {
+      "sha256": "021bc5b6c0b65a0eed350d8bdaa3f30e77ab8519c86200a3ebee96d566d8df0a",
+      "size": 640
+    },
+    "levels/level_06_triggers.bin": {
+      "sha256": "a93d02c4f2a9055c024082e40f2ca233f144061e2e0926c4f72d931b6869c741",
+      "size": 20
+    },
+    "levels/level_07_header.bin": {
+      "sha256": "066fa49a5cb02a5e73a6caa73ea937cd2711f6b78e4cdb2099a673e9229dd933",
+      "size": 16
+    },
+    "levels/level_07_tilemap.bin": {
+      "sha256": "3654e160be05a23987575e7adaf409b0a17f16c256972ca5e634a0a37ddace0a",
+      "size": 12800
+    },
+    "levels/level_07_trigger_payload.bin": {
+      "sha256": "9e132485d5107211de325a45e7917cbe3e4b5b9cde3e4ee91d7d2102317759ee",
+      "size": 640
+    },
+    "levels/level_07_triggers.bin": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    "levels/level_08_header.bin": {
+      "sha256": "54ac41d5d761bef15adf53e7c7fb45dff07b3bae961ce25556fbb956f2461bd7",
+      "size": 16
+    },
+    "levels/level_08_tilemap.bin": {
+      "sha256": "601824e1b4f1ee8f12bff45646ce60abc60f4ca31d681d5430d6db0331e6cac6",
+      "size": 12800
+    },
+    "levels/level_08_trigger_payload.bin": {
+      "sha256": "c754640d814835e44d5238132d949768c6cdf819e44342464117f802df238fb1",
+      "size": 640
+    },
+    "levels/level_08_triggers.bin": {
+      "sha256": "104c1089d792c2afe538adab3189828e7c59c3cededf0bf1625b5fa6f6983e6f",
+      "size": 40
+    },
+    "levels/level_09_header.bin": {
+      "sha256": "1602cf2b7df4158abe715499e717b58bfd35cd95635085f0853b1b0140577236",
+      "size": 16
+    },
+    "levels/level_09_tilemap.bin": {
+      "sha256": "822101927d4c21a84c57f87ef9793a81699f268b2371907436434dfc1315806f",
+      "size": 12800
+    },
+    "levels/level_09_trigger_payload.bin": {
+      "sha256": "c66b48852dbf37710924039c53f13650d07b96b21d7f3451e48a8d42e26ee358",
+      "size": 640
+    },
+    "levels/level_09_triggers.bin": {
+      "sha256": "0f769aaf4d37d8fdc5abf2cb9c270d98203cacec719597fe91b8204aedb26c27",
+      "size": 20
+    },
+    "levels/level_10_header.bin": {
+      "sha256": "e63e1b682e2f5002178a73ce703c98de1c793b00b64f712526104126291323c2",
+      "size": 16
+    },
+    "levels/level_10_tilemap.bin": {
+      "sha256": "97bb1bfdc94af9ef39ce86449fad138a4a4352f1a1e2d626b14a2f88110f8243",
+      "size": 12800
+    },
+    "levels/level_10_trigger_payload.bin": {
+      "sha256": "9e132485d5107211de325a45e7917cbe3e4b5b9cde3e4ee91d7d2102317759ee",
+      "size": 640
+    },
+    "levels/level_10_triggers.bin": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    "levels/level_11_header.bin": {
+      "sha256": "7d3ea8b511a577add8ba1f0926d657e80eec108bc6fa6eedfee290fddf4102e6",
+      "size": 16
+    },
+    "levels/level_11_tilemap.bin": {
+      "sha256": "4022f333cdc1876f07bbb0d70784b1d179e4f0c0857bf010a9954b295e41f484",
+      "size": 12800
+    },
+    "levels/level_11_trigger_payload.bin": {
+      "sha256": "2e2bb1923589b4c85f8d166d4f1063c3917601af71aa0f26f842ba5bd25c7517",
+      "size": 640
+    },
+    "levels/level_11_triggers.bin": {
+      "sha256": "81d9dba5f785df21992de75916c75428b4f93b21a3d61ded6589055184733c00",
+      "size": 20
+    },
+    "levels/level_12_header.bin": {
+      "sha256": "784fb8db10209fd462901453b36adf3adfb3125d3e499d2dec28bc7f7c3b62ab",
+      "size": 16
+    },
+    "levels/level_12_tilemap.bin": {
+      "sha256": "15cfcac3517940584d9ff707b0118ef363222bfd21c35a38016f90cde7bd398d",
+      "size": 12800
+    },
+    "levels/level_12_trigger_payload.bin": {
+      "sha256": "a5ae6a824b613fbe20a68e81c727e4b446434597583b13759fca440d9e8d1ec6",
+      "size": 640
+    },
+    "levels/level_12_triggers.bin": {
+      "sha256": "ac9c8cfdffe75a4dcea17083d0d119b52707368ed47e0547ac5c5b8d8c005b36",
+      "size": 30
+    },
+    "levels/level_13_header.bin": {
+      "sha256": "1602cf2b7df4158abe715499e717b58bfd35cd95635085f0853b1b0140577236",
+      "size": 16
+    },
+    "levels/level_13_tilemap.bin": {
+      "sha256": "2c3b97497e4afbad31c9117e10da1b56f1a8ca2175a323be3499e9f524cdc9d3",
+      "size": 12800
+    },
+    "levels/level_13_trigger_payload.bin": {
+      "sha256": "eafe0a005b1645225c9d77b9137b26371110386f341cc44c6d7de6e82aefcfa9",
+      "size": 640
+    },
+    "levels/level_13_triggers.bin": {
+      "sha256": "5e81549e08fab0026acc27f34710bf36a0ecf1ca05927afea576621243353361",
+      "size": 20
+    },
+    "levels/level_14_header.bin": {
+      "sha256": "066fa49a5cb02a5e73a6caa73ea937cd2711f6b78e4cdb2099a673e9229dd933",
+      "size": 16
+    },
+    "levels/level_14_tilemap.bin": {
+      "sha256": "70aa9f2b814d2f1ee91b7e8a98e3f996502579a816f7df5106eebea54ea2da30",
+      "size": 12800
+    },
+    "levels/level_14_trigger_payload.bin": {
+      "sha256": "9e132485d5107211de325a45e7917cbe3e4b5b9cde3e4ee91d7d2102317759ee",
+      "size": 640
+    },
+    "levels/level_14_triggers.bin": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    "levels/level_15_header.bin": {
+      "sha256": "1602cf2b7df4158abe715499e717b58bfd35cd95635085f0853b1b0140577236",
+      "size": 16
+    },
+    "levels/level_15_tilemap.bin": {
+      "sha256": "ecd5ba817e7536e0078cb4ef3559b3cf2e19043592eaace11e090419519b29a5",
+      "size": 12800
+    },
+    "levels/level_15_trigger_payload.bin": {
+      "sha256": "87295c9099141bed6aebbbde3710b4e9f3aba36c04128b944f836c7b29f1b940",
+      "size": 640
+    },
+    "levels/level_15_triggers.bin": {
+      "sha256": "5dc8334d3d4d600ffc2f429e9e7491e75e6697283746a86f17b87ba47b792bd5",
+      "size": 20
+    },
+    "levels/level_16_header.bin": {
+      "sha256": "784fb8db10209fd462901453b36adf3adfb3125d3e499d2dec28bc7f7c3b62ab",
+      "size": 16
+    },
+    "levels/level_16_tilemap.bin": {
+      "sha256": "af5412c1c2147b103dca42fa539910b11551b47eca0f4fb1ceaf963a9cbe8096",
+      "size": 12800
+    },
+    "levels/level_16_trigger_payload.bin": {
+      "sha256": "b2ac0ec0dc121a91cb842f8030db586c239da96a7009c819043935c1cf5c7929",
+      "size": 640
+    },
+    "levels/level_16_triggers.bin": {
+      "sha256": "a514b596802e754d532332a1e2cbeb90db59f5539b7d6d60f23462bfeee7838a",
+      "size": 30
+    },
+    "levels/level_17_header.bin": {
+      "sha256": "066fa49a5cb02a5e73a6caa73ea937cd2711f6b78e4cdb2099a673e9229dd933",
+      "size": 16
+    },
+    "levels/level_17_tilemap.bin": {
+      "sha256": "2f41701292be58d610046446dcba73792231c868a162581bf04a4fbd0fd09814",
+      "size": 12800
+    },
+    "levels/level_17_trigger_payload.bin": {
+      "sha256": "9e132485d5107211de325a45e7917cbe3e4b5b9cde3e4ee91d7d2102317759ee",
+      "size": 640
+    },
+    "levels/level_17_triggers.bin": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    "levels/level_18_header.bin": {
+      "sha256": "3813415035c855b993e076a8d410decd8d46c60d836d61ef567a26e12be663d5",
+      "size": 16
+    },
+    "levels/level_18_tilemap.bin": {
+      "sha256": "9ac80375772e0bb38660e9338d8aff61a177f81c2c50acdd136d2aee3548d3f7",
+      "size": 12800
+    },
+    "levels/level_18_trigger_payload.bin": {
+      "sha256": "cb2b3d74433fb08966f55950a0d9b42aa9052ce33306efd090c42ad8602c191e",
+      "size": 640
+    },
+    "levels/level_18_triggers.bin": {
+      "sha256": "8ee42ae23a701b5db754ed7cadd127b3754e922611d7640b5757feeda8458e02",
+      "size": 130
+    },
+    "levels/level_19_header.bin": {
+      "sha256": "c291b9c570e3ea1f426ac550bdd7519fd5c9d88ebdf4de7eeb191fc542125199",
+      "size": 16
+    },
+    "levels/level_19_tilemap.bin": {
+      "sha256": "eac9c52779cafb7438ffa48bbee2c0ce1cc451b0698d3c1f051d683f1357fa37",
+      "size": 12800
+    },
+    "levels/level_19_trigger_payload.bin": {
+      "sha256": "41cac341d518d3a2cfb10016a66ca55e532301987ef29f19866599bacc080a9b",
+      "size": 640
+    },
+    "levels/level_19_triggers.bin": {
+      "sha256": "8254f35585f3e61a9ce7a7fa223a6d44b36c1014980de285beea85ebe4d45d6c",
+      "size": 10
+    },
+    "levels/level_20_header.bin": {
+      "sha256": "b1cb99c00cf5c755860d4fa2c8cd01e61b49be9b0c86911b232f252af4b0b0c8",
+      "size": 16
+    },
+    "levels/level_20_tilemap.bin": {
+      "sha256": "845c7e84769aeb39aa6964adec6cc5374a5ff2ba8a76fe8cde5565cf119c648f",
+      "size": 12800
+    },
+    "levels/level_20_trigger_payload.bin": {
+      "sha256": "9e132485d5107211de325a45e7917cbe3e4b5b9cde3e4ee91d7d2102317759ee",
+      "size": 640
+    },
+    "levels/level_20_triggers.bin": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    "levels/level_21_header.bin": {
+      "sha256": "7d3ea8b511a577add8ba1f0926d657e80eec108bc6fa6eedfee290fddf4102e6",
+      "size": 16
+    },
+    "levels/level_21_tilemap.bin": {
+      "sha256": "e46ca6b0107ca158c570f53fdf45e36c58f54c59a54ceb5f0da32f74294ab8ff",
+      "size": 12800
+    },
+    "levels/level_21_trigger_payload.bin": {
+      "sha256": "d30472e96b2ebb2092f6b322822e55f2289bd49cf887de196ba8c674f896014b",
+      "size": 640
+    },
+    "levels/level_21_triggers.bin": {
+      "sha256": "1cbac91b5e6ffadb83e90c6eb83d9dc7e231a653de47c532d28173131425b118",
+      "size": 20
+    },
+    "levels/level_22_header.bin": {
+      "sha256": "b1cb99c00cf5c755860d4fa2c8cd01e61b49be9b0c86911b232f252af4b0b0c8",
+      "size": 16
+    },
+    "levels/level_22_tilemap.bin": {
+      "sha256": "c14ff98087a33d166350544767b46b44686d9dc9f34900fb46520d03ad42b2ed",
+      "size": 12800
+    },
+    "levels/level_22_trigger_payload.bin": {
+      "sha256": "9e132485d5107211de325a45e7917cbe3e4b5b9cde3e4ee91d7d2102317759ee",
+      "size": 640
+    },
+    "levels/level_22_triggers.bin": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    "levels/level_23_header.bin": {
+      "sha256": "5cf849cfff507be7707ab2d9a69c6061a15758172a8181c6d4884910a2943a27",
+      "size": 16
+    },
+    "levels/level_23_tilemap.bin": {
+      "sha256": "369cb1e3956c7554c19abe7f8e00d787f9efd41efb805fb196d4133ab4a26ffe",
+      "size": 12800
+    },
+    "levels/level_23_trigger_payload.bin": {
+      "sha256": "bdd7f0457c05a113581924189cf0b1a7e0b843b878b61be89dcf155aa627949b",
+      "size": 640
+    },
+    "levels/level_23_triggers.bin": {
+      "sha256": "74f700c69abcced99484b55f1f3ba1c33f76cbee8647efc89600755c8d54fc9a",
+      "size": 30
+    },
+    "levels/level_24_header.bin": {
+      "sha256": "c291b9c570e3ea1f426ac550bdd7519fd5c9d88ebdf4de7eeb191fc542125199",
+      "size": 16
+    },
+    "levels/level_24_tilemap.bin": {
+      "sha256": "9aa30b0cba1f75f50e9f1b660e36c6c477552b80516ff317461a7e29977ffb91",
+      "size": 12800
+    },
+    "levels/level_24_trigger_payload.bin": {
+      "sha256": "019c32ec60ea986ad3c769b2a8bdaf32390b087e0057c8d7c4f43ed05efbfedd",
+      "size": 640
+    },
+    "levels/level_24_triggers.bin": {
+      "sha256": "7109eeb24cb3557d2ec2c50f0f90a2642f6715792368cd40963945f7dfcad893",
+      "size": 10
+    },
+    "levels/level_25_header.bin": {
+      "sha256": "1bcd3e1d4cc3c6c5c3b4e53000863db1e44cf853efa9b465521c964ad2ceeae2",
+      "size": 16
+    },
+    "levels/level_25_tilemap.bin": {
+      "sha256": "af96bf7ca4b000ebd4f5fddaf87e8575edf70192c8ecfa7fdd5df597a0c8f455",
+      "size": 12800
+    },
+    "levels/level_25_trigger_payload.bin": {
+      "sha256": "504464ea233b0f72d6d036fd3d31d9b7c1467e02ea0c7896fb9a4060734d147a",
+      "size": 640
+    },
+    "levels/level_25_triggers.bin": {
+      "sha256": "37927d6cc12b607dde12c9d9596b351d2f0218e3cad6538431022bfba73aebd4",
+      "size": 120
+    },
+    "levels/level_26_header.bin": {
+      "sha256": "faf6e6f9f814d481e411f00f66de58439e76fecafc58c892aeda7cae09dceed2",
+      "size": 16
+    },
+    "levels/level_26_tilemap.bin": {
+      "sha256": "f262cb6bacb676d8b9bc45af10630af8edd70c52a80eb1e082a9a12c2e8c30d9",
+      "size": 12800
+    },
+    "levels/level_26_trigger_payload.bin": {
+      "sha256": "69742e69d1e6a30b542ea917400ae932fda3c127bd8fd76770a45ddcbf45320a",
+      "size": 640
+    },
+    "levels/level_26_triggers.bin": {
+      "sha256": "af5405ca4669f2d1bf04786dc8ec41538be40b528f116556f4a130049c7ce89f",
+      "size": 110
+    },
+    "levels/level_27_header.bin": {
+      "sha256": "f519bd7efffa039b29bb8e7046dbdd98b76039a4ad37051988fad2845f2e13b7",
+      "size": 16
+    },
+    "levels/level_27_tilemap.bin": {
+      "sha256": "5bffa71dfd1a8505807b77bc2e89603ed3f65545d4cb2ae240ff928085881aa6",
+      "size": 12800
+    },
+    "levels/level_27_trigger_payload.bin": {
+      "sha256": "9b8455334cde08038dcc22a23c59d7906e67f7aed5eeb9cd17727860d0d98dd6",
+      "size": 640
+    },
+    "levels/level_27_triggers.bin": {
+      "sha256": "11cbe721dffcb556e38847b5242a04265a1426015d1c37277fd08c7271edb3a0",
+      "size": 80
+    },
+    "levels/level_28_header.bin": {
+      "sha256": "066fa49a5cb02a5e73a6caa73ea937cd2711f6b78e4cdb2099a673e9229dd933",
+      "size": 16
+    },
+    "levels/level_28_tilemap.bin": {
+      "sha256": "568bd00c34723aca12edc96a9fa28873603b8fff65364e0ec37b25328e2b7a66",
+      "size": 12800
+    },
+    "levels/level_28_trigger_payload.bin": {
+      "sha256": "9e132485d5107211de325a45e7917cbe3e4b5b9cde3e4ee91d7d2102317759ee",
+      "size": 640
+    },
+    "levels/level_28_triggers.bin": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    "levels/level_29_header.bin": {
+      "sha256": "3288b23c5d8cb1d55239747242c5d0f40a95721e67a375705f329ff6c4c54247",
+      "size": 16
+    },
+    "levels/level_29_tilemap.bin": {
+      "sha256": "1149ce6e41d96d5b2746e020587bdf0e851bf860456ecc9853c7e82882172e3f",
+      "size": 12800
+    },
+    "levels/level_29_trigger_payload.bin": {
+      "sha256": "b84ecebbb8ff1a4a95fadefd7e1e72c5359a9960adc3b82160d9519a87b03a59",
+      "size": 640
+    },
+    "levels/level_29_triggers.bin": {
+      "sha256": "52b94b300793e3445334f9278acccb5f82f068952d357b3c63be572c87f5ffe4",
+      "size": 10
+    },
+    "levels/level_30_header.bin": {
+      "sha256": "54ac41d5d761bef15adf53e7c7fb45dff07b3bae961ce25556fbb956f2461bd7",
+      "size": 16
+    },
+    "levels/level_30_tilemap.bin": {
+      "sha256": "8ce791cddb2602655c73d210c554c7dcbce521c2588602cd6313f3f2cc0af7a5",
+      "size": 12800
+    },
+    "levels/level_30_trigger_payload.bin": {
+      "sha256": "8033868c0952d2881260bf3750f7dd5337411173cc3270d68909d2e2b40ddd8f",
+      "size": 640
+    },
+    "levels/level_30_triggers.bin": {
+      "sha256": "4ba5a5778b5a7c48613885cf7b591254db842c6a1a7bb9958b7dc75c82f81668",
+      "size": 40
+    },
+    "levels/level_31_header.bin": {
+      "sha256": "1602cf2b7df4158abe715499e717b58bfd35cd95635085f0853b1b0140577236",
+      "size": 16
+    },
+    "levels/level_31_tilemap.bin": {
+      "sha256": "2c9e3feaf18b44a2b194f3b3d3df00cd88d93c31d735cd887ea43b4f8a61b2a3",
+      "size": 12800
+    },
+    "levels/level_31_trigger_payload.bin": {
+      "sha256": "c8089f7c0e2cb3a5b79e5022c958bf295ca7e447ae3ba7e91ef319cf02e01c8c",
+      "size": 640
+    },
+    "levels/level_31_triggers.bin": {
+      "sha256": "3c5443835a9a80df9b8c91da97fa6fa78b6b0519b585c7ca2c304180112a0f58",
+      "size": 20
+    },
+    "levels/level_32_header.bin": {
+      "sha256": "f519bd7efffa039b29bb8e7046dbdd98b76039a4ad37051988fad2845f2e13b7",
+      "size": 16
+    },
+    "levels/level_32_tilemap.bin": {
+      "sha256": "bb6c2fa0142b4c400d99827a42fcd1f6f74d4ac345ffdd442556f62876ea1157",
+      "size": 12800
+    },
+    "levels/level_32_trigger_payload.bin": {
+      "sha256": "4be2a991a801c3b3e915fe95f5eb631b307e0d416ba3ca4c45d2f25031145e16",
+      "size": 640
+    },
+    "levels/level_32_triggers.bin": {
+      "sha256": "29cbbe33b6c98ecb97c3270b5a12432a8790759bb67ba8f111e746b8f5db4620",
+      "size": 80
+    },
+    "levels/level_33_header.bin": {
+      "sha256": "592e75682e7c49906de75dbba7bb01cb1ea2429d9c597412fd7716086474c27c",
+      "size": 16
+    },
+    "levels/level_33_tilemap.bin": {
+      "sha256": "2b56cda83a6a817a89f7f49de617ee14604538974238e66f805a64ed5e75039b",
+      "size": 12800
+    },
+    "levels/level_33_trigger_payload.bin": {
+      "sha256": "2c022a20d0016377f766724614ab7e1e6f6ef9797965a19b23d419f812e4e9b6",
+      "size": 640
+    },
+    "levels/level_33_triggers.bin": {
+      "sha256": "5dcc25145898d57c4cfb823b3b57cede5a4e465039dcbac2e828d90fe1b53db8",
+      "size": 60
+    },
+    "levels/level_34_header.bin": {
+      "sha256": "5cf849cfff507be7707ab2d9a69c6061a15758172a8181c6d4884910a2943a27",
+      "size": 16
+    },
+    "levels/level_34_tilemap.bin": {
+      "sha256": "9afdfdac0d65d4044489c4caad1ce70dc313f8f631f76cd57d60e829baf72160",
+      "size": 12800
+    },
+    "levels/level_34_trigger_payload.bin": {
+      "sha256": "49da2e61db24680556d5c15aed5a0b510c4040a71c4d9da6aa554e2b95b529e1",
+      "size": 640
+    },
+    "levels/level_34_triggers.bin": {
+      "sha256": "3c9793eb37e268fa9101361f720a459dc915fbffa529ef37315015facca4dc14",
+      "size": 30
+    },
+    "levels/level_35_header.bin": {
+      "sha256": "3d8a0059011a71fe5a70eeb6852b484bf72ed4ee623d2a98b744a9fc0bdc1989",
+      "size": 16
+    },
+    "levels/level_35_tilemap.bin": {
+      "sha256": "5bbadf5b1e801f8727931f7ac0fb632cef3c7f65f9cd92b4be9c1632f9dc6f43",
+      "size": 12800
+    },
+    "levels/level_35_trigger_payload.bin": {
+      "sha256": "84418501fc5669b8a6bbe769a4a334599d1286c5546a504e9064a9483a6425fc",
+      "size": 640
+    },
+    "levels/level_35_triggers.bin": {
+      "sha256": "94c30816b4c7ef640aa7b43ac4889678ca1fce078f508ac95fc2e2dce232cde0",
+      "size": 260
+    },
+    "levels/level_36_header.bin": {
+      "sha256": "066fa49a5cb02a5e73a6caa73ea937cd2711f6b78e4cdb2099a673e9229dd933",
+      "size": 16
+    },
+    "levels/level_36_tilemap.bin": {
+      "sha256": "1fbaa2c1323d3c944b97027c83ab7412ca3abeebc276832cfecf810ba984d0f9",
+      "size": 12800
+    },
+    "levels/level_36_trigger_payload.bin": {
+      "sha256": "8545ccff2a58630546629acf98f3e787c99b0e09dc2523d34189271fb8cf3ed7",
+      "size": 640
+    },
+    "levels/level_36_triggers.bin": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    "levels/level_37_header.bin": {
+      "sha256": "b1cb99c00cf5c755860d4fa2c8cd01e61b49be9b0c86911b232f252af4b0b0c8",
+      "size": 16
+    },
+    "levels/level_37_tilemap.bin": {
+      "sha256": "d2736a588e1724660571236684208e53a106e7c366136c3d8f1f1882a6b68aab",
+      "size": 12800
+    },
+    "levels/level_37_trigger_payload.bin": {
+      "sha256": "9e132485d5107211de325a45e7917cbe3e4b5b9cde3e4ee91d7d2102317759ee",
+      "size": 640
+    },
+    "levels/level_37_triggers.bin": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    "levels/level_38_header.bin": {
+      "sha256": "6f6e292b7e30584b140ef844a5c2a6dc470cfb256a8af9029c362b9638ce7f9a",
+      "size": 16
+    },
+    "levels/level_38_tilemap.bin": {
+      "sha256": "eb140b61142cf8d0265f43579151ce4512f359974d9316f0b490a1a1bf8319e8",
+      "size": 12800
+    },
+    "levels/level_38_trigger_payload.bin": {
+      "sha256": "dd4b447e66ae15e9bb8d94caa8387dabceb271a50eb9a77077d226b37d1aec7f",
+      "size": 640
+    },
+    "levels/level_38_triggers.bin": {
+      "sha256": "8af1de32f17297293efb8bb5795450d81e925a28d847d0f4dd9aeb9a8ecf1cfe",
+      "size": 50
+    },
+    "levels/level_39_header.bin": {
+      "sha256": "54ac41d5d761bef15adf53e7c7fb45dff07b3bae961ce25556fbb956f2461bd7",
+      "size": 16
+    },
+    "levels/level_39_tilemap.bin": {
+      "sha256": "bd41aedbc92e60728871a8f3501e47cc7cf0962aa9659b1cdb0bd81f56085cf6",
+      "size": 12800
+    },
+    "levels/level_39_trigger_payload.bin": {
+      "sha256": "316ace6703139f757ef054121601f999ea899939076c4068da9e7f164b371b17",
+      "size": 640
+    },
+    "levels/level_39_triggers.bin": {
+      "sha256": "9a2e9990a9deb020121ffdba3f441787b80da09657b3268b309721f605034963",
+      "size": 40
+    },
+    "levels/level_40_header.bin": {
+      "sha256": "5cf849cfff507be7707ab2d9a69c6061a15758172a8181c6d4884910a2943a27",
+      "size": 16
+    },
+    "levels/level_40_tilemap.bin": {
+      "sha256": "9d62e412c39d96dd76f8bb2c197c3f7f200a7e15214bf2f475fc6bb4afa420d8",
+      "size": 12800
+    },
+    "levels/level_40_trigger_payload.bin": {
+      "sha256": "472b35e5f541041507e8ffe42db625e4e1b6bd0e156051550d2c1f43491f8f6b",
+      "size": 640
+    },
+    "levels/level_40_triggers.bin": {
+      "sha256": "aedaf8a743159a72b08cfbb7f7c9ae6a8f0aa1a9a434329a1533eeb2c7332cc5",
+      "size": 30
+    },
+    "levels/level_41_header.bin": {
+      "sha256": "592e75682e7c49906de75dbba7bb01cb1ea2429d9c597412fd7716086474c27c",
+      "size": 16
+    },
+    "levels/level_41_tilemap.bin": {
+      "sha256": "299f87e0e39088961102c40eadc39e8c719a0bb489500fc0e6a9fe4a3547ba47",
+      "size": 12800
+    },
+    "levels/level_41_trigger_payload.bin": {
+      "sha256": "4a70dbd228dc5cc05df50d7823a5a9446904b5612e27234802f0adfb82a8247c",
+      "size": 640
+    },
+    "levels/level_41_triggers.bin": {
+      "sha256": "baa76d181edeef32181ff0c4121d2a5b4b1dabd92d9b421cef9f950219806894",
+      "size": 60
+    },
+    "levels/level_42_header.bin": {
+      "sha256": "90d11bc9696cb6921621bad8346c93cd94f1403411202c7eb67b3ce1fe214e71",
+      "size": 16
+    },
+    "levels/level_42_tilemap.bin": {
+      "sha256": "f6d0e2c89ef9c05a9079d93e303e9a762df4c5d92c57807ec5cdd71553710a27",
+      "size": 12800
+    },
+    "levels/level_42_trigger_payload.bin": {
+      "sha256": "04ae0e18f76f075b99c23582253942d74a3d20cbea540ecb2266af427192d31d",
+      "size": 640
+    },
+    "levels/level_42_triggers.bin": {
+      "sha256": "4a420ebbfa09425d918f059b6de0757bb019835428da70897401a28476ed259c",
+      "size": 100
+    },
+    "presentation/BIG_PIC.bin": {
+      "sha256": "e4565689c0922badd13f83a49043e6585ab7849ccea9fee47d9e00da081a18ab",
+      "size": 100000
+    },
+    "presentation/HIGHSCORE_names.bin": {
+      "sha256": "558b50c965350c40aa402cc1af1a48f09752f5759ab8b94fd663bad94d4c5e7e",
+      "size": 60
+    },
+    "presentation/HIGHSCORE_scores.bin": {
+      "sha256": "44a10c88c7b47da56f2f1a570b2cfc2ecb5d19dfcf6ec81136d61e86826fdbb3",
+      "size": 20
+    },
+    "presentation/HSCORE_DAT.bin": {
+      "sha256": "7d0f187857d8a57aaf3065a921167be22d83034afcb7e1c61b1152962cbdd825",
+      "size": 10320
+    },
+    "presentation/INTRO_events.bin": {
+      "sha256": "ac735e60adb0bae4bc565fa47a2a9d60e8b6d1505f9b750dc746a8e5e023dcd1",
+      "size": 3280
+    },
+    "presentation/INTRO_palette.bin": {
+      "sha256": "776257e49e6422eca6d8cbde45bf443a4194c21bee1b97a07744c76f695bca78",
+      "size": 64
+    },
+    "presentation/LEVEL_correct.bin": {
+      "sha256": "17d4e83a7c0ab47c7ceb0f480f4cc78cb85e9752ce3e072eb7c31fd7d45c10f0",
+      "size": 20
+    },
+    "presentation/LEVEL_font.bin": {
+      "sha256": "8081f618f4f36b797e1e2d68812a9f0f7a94f0c94066e14f6e32c4a5c9a6c4a4",
+      "size": 960
+    },
+    "presentation/LEVEL_incorrect.bin": {
+      "sha256": "ad851d14a9a2f198abd29296872d61c901665afa1ecaac44c56186e8e148edf0",
+      "size": 20
+    },
+    "presentation/LEVEL_palette.bin": {
+      "sha256": "64690c1ca824a1d25f0fd8fdabdcebf2d14c5f32a7e288d4ab400dedbbc49115",
+      "size": 32
+    },
+    "presentation/LEVEL_passwords.bin": {
+      "sha256": "795b9c1fb4e3f8e0e2dd50b5740d484a45361d47a641255c1123d266b85fadb6",
+      "size": 192
+    },
+    "presentation/LEVEL_template.bin": {
+      "sha256": "4375ca20ca0caff50599cd9a7cafa9549a0c1ce0f91b44a1d711338f7352cefb",
+      "size": 126
+    },
+    "presentation/LEVEL_zap.bin": {
+      "sha256": "7c8d18f5476f33799dc1111d99f98fa91e9eb9a6fd38bb40683863e37254cac1",
+      "size": 126
+    },
+    "presentation/PROTECTION_challenges_xor.bin": {
+      "sha256": "ae40680bafbb3727bc69207a29297ad14e43e765838a23e14a7ba8987444bc29",
+      "size": 5920
+    },
+    "presentation/PROTECTION_flags.bin": {
+      "sha256": "474033d3456f8beeb528ce2cca29d5641ec129abceb12af2ddd7c2ce18c85c89",
+      "size": 96
+    },
+    "presentation/PROTECTION_input.bin": {
+      "sha256": "471f9476bbb284f87b3f9cb728bd91cc31b4710ee4a500c0dafad73e5021beb6",
+      "size": 14
+    },
+    "presentation/PROTECTION_message_offsets.bin": {
+      "sha256": "da97f564ee9ba187bea2c949e953b881539bcea4d1460a159a984307735b989a",
+      "size": 32
+    },
+    "presentation/PROTECTION_messages.bin": {
+      "sha256": "96bcb1d39de663423b328bb2d4df6f1f73cbace731129a8ff4ed2817f7b40027",
+      "size": 367
+    },
+    "presentation/PROTECTION_palette.bin": {
+      "sha256": "9f483f824bc885389a86f5c5ea86076b7939f16f6898440c72a3d8d47cc231c3",
+      "size": 32
+    },
+    "presentation/TEMPFILE_SCR.bin": {
+      "sha256": "61aaa05934149bae6dd2d9179d6621c5c0ab7ca9edc3001242833ec2675dc7b4",
+      "size": 42240
+    },
+    "presentation/TITLE_SCR.bin": {
+      "sha256": "a813911faebf53ed81e89b9608fb92030d7daa9eb487656b9b63983d359d7a60",
+      "size": 52800
+    },
+    "presentation/TITLE_palette.bin": {
+      "sha256": "43bc0c20a8b0ff29dc0973e51e1d461cf2435e9d84a6d137df0271249e4d4df5",
+      "size": 64
+    },
+    "sprites/SPR_16_unpacked.bin": {
+      "sha256": "0f82f521ad2a12ad00cb45b76451e1737cc3b7ee64aaa8f14b73662fe0e5be2d",
+      "size": 12800
+    },
+    "sprites/SPR_32.B": {
+      "sha256": "0275869cebc45936c4017c1a80a923aa87268912df8fd70a9f9d1e84b678d000",
+      "size": 96000
+    },
+    "water/W_BLOCKS.bin": {
+      "sha256": "fc26f6c095b1588bb00ea5e2b4558feacfff85127583b75804ef4cc4817ae8a9",
+      "size": 5376
+    }
+  },
+  "format": 1
+}
