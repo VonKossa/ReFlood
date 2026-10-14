@@ -1,5 +1,12 @@
 # ReFlood
 
+<p>
+  <img src="screenshots/screenshot_1.png" width="24%">
+  <img src="screenshots/screenshot_2.png" width="24%">
+  <img src="screenshots/screenshot_3.png" width="24%">
+  <img src="screenshots/screenshot_4.png" width="24%">
+</p>
+
 ReFlood is a source reconstruction of the Amiga game *Flood*. It recreates the
 original game on modern systems using SDL2.
 
